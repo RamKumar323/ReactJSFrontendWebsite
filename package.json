@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "@material-ui/codemod": "^4.5.0",
     "style-loader": "^1.2.1"
   }
 }
